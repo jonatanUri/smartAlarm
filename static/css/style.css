@@ -1,0 +1,20 @@
+.default{
+    background-color: #333333;
+}
+
+.sleeping {
+    transition: all 3s;
+    background-color: black;
+}
+
+.wakeup {
+    transition: all 600s;
+    background-color: #f7edd4;
+}
+
+#clock {
+    color: #86989Ba0;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: "Fira Code Medium", 'sans-serif';
+}
